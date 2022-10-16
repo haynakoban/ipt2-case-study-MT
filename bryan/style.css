@@ -76,9 +76,13 @@ li a.links::before {
   transform: translate(-50%, 0);
 }
 
-.container-card {
+/* .container-card {
   width: 450px;
   background-color: #f2f2f2 !important;
+} */
+
+.user-info {
+  margin-top: 70px;
 }
 
 .user-info {
