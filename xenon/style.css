@@ -80,7 +80,7 @@ li a.links::before {
   background-color: #f2f2f2 !important;
 }
 
-/* .user-info {
+.user-info {
   margin-top: 70px;
 }
 
@@ -95,4 +95,4 @@ li a.links::before {
 
 .key {
   text-align: right;
-} */
+}
